@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joshua Wilson</h1>
 <h3 align="center">A passionate data scientist who's currently in his final year of engineering</h3>
 
-- 🔭 I’m currently working on **Brain Tumor Using EfficientNet**
+- 🔭 I’m currently undergoing a training by Samsung
 
 - 🌱 I’m currently learning **Deep Learning, Agentic AI**
 
