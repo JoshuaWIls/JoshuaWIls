@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
-- 🤝 I’m looking for help with **Interships**
+- 🤝 I’m looking for **Interships**
 
 - 📫 How to reach me **joshuawils044@gmail.com**
 
